@@ -1,0 +1,206 @@
+.coingate {
+    color: #5022ED;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.to-the {
+    color: #3A3A3A;
+    font-size: 40px;
+}
+.s1bg-color {
+    background-color: #EFF7FD;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 5%);
+}
+.s2bg-color {
+    background-color: #94D3FF;
+    border-radius: 10px;
+}
+.mg-top {
+    margin-top: -40px;
+}
+.five-percent {
+    font-size: 30px;
+    color: #fff;
+    padding-left: 10px;
+}
+.lambo {
+    width: 40px;
+}
+.gift-card {
+    /* margin-top: -100px; */
+    position: absolute;
+    left: 860px;
+    width: 180px;
+    bottom: -20px;
+}
+.first-promo{
+    padding: 10px;
+    background-color: #fff;
+    margin-top: 20px;
+    font-size: 30px;
+    border-radius: 10px;
+    padding-left: 10px ;
+    color: #3A3A3A;
+    width: 90%;
+}
+.will-expire {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 20px;
+}
+.go-shop {
+    padding: 10px;
+    background-color: #FF44E1;
+    font-size: 30px;
+    border-radius: 30px;
+    margin-top: -20px;
+    color: #fff;
+}
+.positive {
+    position: relative;
+}
+.posilute {
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+}
+.speak-of {
+    font-size: 30px;
+    color: #3A3A3A;
+}
+.s3bg-color {
+    background-color: #EFF7FD;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 5%);
+}
+.s3bg-color-v2 {
+    background-color: #EFF7FD;
+    border: 0px solid;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 5%);
+    margin-top: -40px;
+}
+.sm-six-container {
+    display: none;
+}
+.shop-world {
+    font-size: 30px;
+    color: #3A3A3A;
+    margin-top: 10px;
+}
+.shop-world-2 {
+    font-size: 30px;
+    color: #3A3A3A;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+.use-net {
+    font-size: 30px;
+    color: #3A3A3A;
+}
+.first-box {
+    padding: 20px;
+    background-color: #0DEACE;
+    border-radius: 15px;
+    z-index: 2;
+}
+.ecom {
+    font-size: 30px;
+    color: #fff;
+    padding-left: 20px;
+}
+.second-box {
+    padding: 25px;
+    background-color: #FFF;
+    border-radius: 15px;
+    margin-left: -20px;
+    z-index: 1;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 5%);
+    width: 50%;
+}
+.second-box-sports {
+    padding: 18px;
+    background-color: #FFF;
+    border-radius: 15px;
+    margin-left: -20px;
+    z-index: 1;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 5%);
+    width: 50%;
+}
+.gate-team {
+    display: flex;
+    justify-content: space-between;
+}
+.have-fun {
+    margin-top: 50px;
+    font-size: 30px;
+    color: #000;
+}
+.p1s4-content {
+    display: flex;
+    justify-content: space-between;
+}
+.supp-coin {
+    margin-right: 10px;
+    margin-top: -50px;
+    color: #000;
+    font-size: 20px;
+}
+.uab {
+    color: #000;
+    font-size: 20px;
+}
+.p1s4-footer {
+    height: 200px;
+}
+.app-logo {
+    padding-left: 10px;
+}
+.header-margin {
+    margin-top: 30px;
+}
+.second-box {
+    display: flex;
+    justify-content: space-between !important;
+}
+.second-box-sports {
+    display: flex;
+    justify-content: space-between !important;
+}
+
+
+
+/* testing */
+.first-rectangle {
+    padding: 10px;
+    background-color: #0DEACE;
+    color: #fff;
+    display: flex;
+    border-radius: 10px;
+    width: 100%;
+    z-index: 2;
+    text-align: center;
+    align-items: center;
+    /* justify-content: center; */
+    
+}
+.bundle-3 {
+    padding: 10px 10px 10px 40px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 0px 10px 10px 0px;
+    width: 100%;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 10%);
+    margin-left: -20px;
+    z-index: 1;
+}
+.ekomirs {
+    font-size: 12px;
+    padding-left: 5px !important;
+}

@@ -1,0 +1,106 @@
+.coingate {
+    color: #5022ED;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.to-the {
+    color: #3A3A3A;
+    font-size: 40px;
+}
+.s1bg-color {
+    background-color: #EFF7FD;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 5%);
+}
+.order-container {
+    background-color: #fff;
+    padding: 40px;
+    border-bottom: 1px solid #E4E9F0;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 5%); 
+    border-radius: 10px;
+}
+.order-number {
+    font-size: 25px;
+    color: #425466;
+}
+.three-cards {
+    font-size: 20px;
+    color: #425466;
+}
+.order-boxes {
+    padding: 30px 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+.sm-container-order {
+    margin-bottom: 50px;
+}
+.usd-apple {
+    color: #4B546D;
+    font-size: 25px;
+}
+.btcv {
+    color: #5022ED;
+    font-size: 20px;
+    padding-top: 35px !important;
+}
+.redeem {
+    padding-left: 20px !important;
+}
+.in-united {
+    color: #4B546D;
+    font-size: 20px;
+}
+.sm-rainbow-apple {
+    display: none;
+}
+.total-order {
+    padding: 30px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    color: #5022ED;
+}
+.go-shop {
+    padding: 10px;
+    background-color: #FF44E1;
+    font-size: 30px;
+    border-radius: 30px;
+    margin-top: -20px;
+    color: #fff;    
+}
+
+.gate-team {
+    display: flex;
+    justify-content: space-between;
+}
+.have-fun {
+    margin-top: 50px;
+    font-size: 30px;
+    color: #000;
+}
+.p1s4-content {
+    display: flex;
+    justify-content: space-between;
+}
+.supp-coin {
+    margin-right: 10px;
+    margin-top: -50px;
+    color: #000;
+    font-size: 20px;
+}
+.uab {
+    color: #000;
+    font-size: 20px;
+}
+.p1s4-footer {
+    height: 200px;
+}
+.app-logo {
+    padding-left: 10px;
+}
+.header-margin {
+    margin-top: 30px;
+}
