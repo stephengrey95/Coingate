@@ -58,6 +58,9 @@
     .to-the {
         font-size: 25px;
     }
+    .to-the-1 {
+        font-size: 25px;
+    }
     .five-percent {
         font-size: 25px;
     }
@@ -188,6 +191,9 @@
         margin-top: -10px;
     }
     .to-the {
+        font-size: 20px;
+    }
+    .to-the-1 {
         font-size: 20px;
     }
     .five-percent {
@@ -363,6 +369,9 @@
     .to-the {
         font-size: 12px;
     }
+    .to-the-1 {
+        font-size: 14px;
+    }
     .first-promo{
         padding: 10px;
         background-color: #fff;
@@ -526,5 +535,32 @@
         border-bottom-right-radius: 10px;
         box-shadow: 0px 4px 20px rgba(0, 0, 0, 5%);
         margin-top: -40px;
+    }
+    .supp-coin {
+        margin-right: 10px;
+        margin-top: -25px;
+        color: #000;
+        font-size: 8px;
+        padding-left: 50px;
+    }
+    .coingate-logo {
+        width: 70%;
+        margin-right: -40px;
+    }
+    .coingate {
+        font-size: 20px;
+        margin-left: -10px;
+        margin-top: -5px;
+    }
+    .bundle-3 {
+        padding: 10px 10px 10px 30px;
+        background-color: #fff;
+        display: flex;
+        justify-content: space-between;
+        border-radius: 0px 10px 10px 0px;
+        width: 100%;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 10%);
+        margin-left: -20px;
+        z-index: 1;
     }
 }

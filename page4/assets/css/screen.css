@@ -387,4 +387,23 @@
         border-bottom-right-radius: 15px;
         box-shadow: 0px 4px 20px rgb(0 0 0 / 10%);
     }
+    .supp-coin {
+        margin-right: 10px;
+        margin-top: -25px;
+        color: #000;
+        font-size: 8px;
+        padding-left: 50px;
+    }
+    .coingate-logo {
+        width: 70%;
+        margin-right: -40px;
+    }
+    .coingate {
+        font-size: 20px;
+        margin-left: -10px;
+        margin-top: -5px;
+    }
+    .total-order {
+        padding: 0px;
+    }
 }

@@ -8,13 +8,22 @@ a {
     max-width: 1200px;
     padding: 0;
 }
-
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+.ff-Roboto-Regular {
+    font-family: "Roboto-Regular";
+}
+body {
+    font-family: "Roboto-Regular";
+}
 .border-test {
     border: 5px solid blue;
 }
 
 .main-padder, .section-padder {
-    padding: 20px 40px; 
+    padding: 20px 20px; 
 }
 
 .center-t {

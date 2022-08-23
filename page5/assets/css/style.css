@@ -32,7 +32,7 @@
 .gift-card {
     /* margin-top: -100px; */
     position: absolute;
-    left: 800px;
+    left: 860px;
     width: 180px;
     bottom: -20px;
 }
@@ -101,4 +101,7 @@
 .gate-team {
     display: flex;
     justify-content: space-between;
+}
+.small-lambo {
+    width: 30px;
 }

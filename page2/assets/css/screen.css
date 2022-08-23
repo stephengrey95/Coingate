@@ -4,7 +4,7 @@
 @media screen and (max-width: 1100px) {
     .gift-card {
         position: absolute;
-        left: 700px;
+        left: 770px;
         width: 170px;
         bottom: -20px;
     }
@@ -15,7 +15,7 @@
 @media screen and (max-width: 1000px) {
     .gift-card {
         position: absolute;
-        left: 600px;
+        left: 720px;
         width: 150px;
         bottom: -20px;
     }
@@ -26,7 +26,7 @@
 @media screen and (max-width: 900px) {
     .gift-card {
         position: absolute;
-        left: 550px;
+        left: 640px;
         width: 140px;
         bottom: -20px;
     }
@@ -34,7 +34,7 @@
 @media screen and (max-width: 870px) {
     .gift-card {
         position: absolute;
-        left: 500px;
+        left: 610px;
         width: 140px;
         bottom: -20px;
     }
@@ -183,7 +183,7 @@
 @media screen and (max-width: 700px) {
     .gift-card {
         position: absolute;
-        left: 400px;
+        left: 425px;
         width: 120px;
         bottom: -15px;
     }
@@ -304,7 +304,7 @@
 @media screen and (max-width: 650px) {
     .gift-card {
         position: absolute;
-        left: 350px;
+        left: 370px;
         width: 120px;
         bottom: -15px;
     }
@@ -329,7 +329,7 @@
     }
     .gift-card {
         position: absolute;
-        left: 300px;
+        left: 325px;
         width: 120px;
         bottom: -15px;
     }
@@ -338,7 +338,7 @@
 @media screen and (max-width: 530px) {
     .gift-card {
         position: absolute;
-        left: 270px;
+        left: 280px;
         width: 100px;
         bottom: -10px;
     }
@@ -357,7 +357,7 @@
     }
     .gift-card {
         position: absolute;
-        left: 235px;
+        left: 270px;
         width: 80px;
         bottom: -10px;
     }
@@ -486,7 +486,7 @@
     }
     .gift-card {
         position: absolute;
-        left: 235px;
+        left: 250px;
         width: 80px;
         bottom: -10px;
     }
@@ -540,7 +540,7 @@
 @media screen and (max-width: 415px) {
     .gift-card {
         position: absolute;
-        left: 187px;
+        left: 235px;
         width: 75px;
         bottom: -10px;
     }
@@ -552,7 +552,7 @@
 @media screen and (max-width: 375px) {
     .gift-card {
         position: absolute;
-        left: 163px;
+        left: 195px;
         width: 75px;
         bottom: -7px;
     }
@@ -571,6 +571,22 @@
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
         box-shadow: 0px 4px 20px rgb(0 0 0 / 10%);
+    }
+    .supp-coin {
+        margin-right: 10px;
+        margin-top: -25px;
+        color: #000;
+        font-size: 8px;
+        padding-left: 50px;
+    }
+    .coingate-logo {
+        width: 70%;
+        margin-right: -40px;
+    }
+    .coingate {
+        font-size: 20px;
+        margin-left: -10px;
+        margin-top: -5px;
     }
 
 }

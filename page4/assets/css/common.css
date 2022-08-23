@@ -14,9 +14,18 @@ a {
 }
 
 .main-padder, .section-padder {
-    padding: 20px 40px; 
+    padding: 20px 20px; 
 }
-
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+.ff-Roboto-Regular {
+    font-family: "Roboto-Regular";
+}
+body {
+    font-family: "Roboto-Regular";
+}
 .center-t {
     text-align: center;
 }

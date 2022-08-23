@@ -1,6 +1,16 @@
 a {
     text-decoration: none;
 }
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+.ff-Roboto-Regular {
+    font-family: "Roboto-Regular";
+}
+body {
+    font-family: "Roboto-Regular";
+}
 .box-shadow {
     box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
 }
@@ -28,6 +38,13 @@ a {
 }
 .ff-OpenSans-Bold {
     font-family: "OpenSans-Bold";
+}
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+.ff-Roboto-Regular {
+    font-family: "Roboto-Regular";
 }
 
 
